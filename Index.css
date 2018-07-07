@@ -1,0 +1,20 @@
+body{
+background: #f1ffff;
+text-align: center;
+}
+img{
+  width:20%
+}
+.card{
+  background: #adeadc;
+    width: 20%;
+    border-radius: 2em;
+}
+#card{
+  justify-content:space-around;
+  display:flex;
+  margin:2%;
+}
+.card:hover{
+  box-shadow: 0 8px 8px 8px pink;
+}

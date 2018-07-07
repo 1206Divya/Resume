@@ -1,0 +1,27 @@
+{
+  "co":"To excel in my chosen field in a job that both challenges and inspires me, while pushing me to work to the best of my abilities and produce the highest quality work that I am capable of",
+  "Achive":{
+      "details": "I won 1 prize in school days"
+  },
+  "educationalQualifications":[{
+    "name":"B.Tech:",
+    "inst":"Completed my Btech in ALIET"
+  },
+  {
+    "name":"Intermediate:",
+    "inst":"Completed intermediate in Narayana Junior College"
+  },
+  {
+    "name":"S S C:",
+    "inst":"Completed ssc in Sri Chaitanya Techno School"
+  }
+],
+"tech":[{
+  "name":"Opertaing System:",
+  "value":"Windows,Linux,etc.,"
+},
+{
+  "name":"Languages:",
+  "value":"HTML5,CSS3,JavaScript,Angular JS"
+}]
+}
